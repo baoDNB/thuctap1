@@ -75,7 +75,14 @@ table {
     text-align: left;
   }
 .container2 th {
-
-    background-color: #ddd;
-    
+    background-color: #ddd; 
 }
+#input {
+    width: 300px;
+    padding: 10px;
+    background-color: #ddd;
+    border-radius: 5px;
+    outline: none;
+    font-size: 16px;
+  }
+  
