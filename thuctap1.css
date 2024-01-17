@@ -85,4 +85,27 @@ table {
     outline: none;
     font-size: 16px;
   }
-  
+i {
+    color: #ddd;
+    margin-right: 20px;
+}
+.View{
+    display: flex;
+    justify-content: space-between;
+}
+.View1{
+    text-align: center;
+    font-size: 16px;
+    padding: 10px 0px;
+}
+.PAMNEWS{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    
+    border: 2px solid #1a44ff;
+      
+    color: #fff;
+    background-color: #1a44ff;
+    transition: background-color 0.3s ease;
+}
